@@ -10,7 +10,7 @@ Este repositorio contiene la política de privacidad para la aplicación móvil 
 ## Cómo usar
 
 1. La política de privacidad está disponible públicamente en:
-https://[vidal_valle].github.io/[nica-trivia-privacy]/
+https://github.com/VidalValle05/nica-trivia-privacy.git
 
 text
 
@@ -35,4 +35,4 @@ Para modificar la política de privacidad:
 ## Soporte
 
 Para problemas técnicos con esta página, contacta a:
-[tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+[angelvidal878@gmail.com](nicatrivia26@gmail.com)
